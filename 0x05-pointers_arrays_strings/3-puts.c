@@ -1,4 +1,4 @@
-#include"main.h"
+#include "main.h"
 
 /**
  * _puts - prints a string, followed by a newline to stdout
@@ -11,7 +11,8 @@ void _puts(char *str)
 		_putchar(*str++);
 
 	_putchar('\n');
-}#include"main.h"
+}
+#include "main.h"
 
  /**
   * _puts - prints a string, followed by a newline to stdout
